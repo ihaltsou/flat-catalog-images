@@ -1,0 +1,25 @@
+{
+  "name": "flat-catalog-images",
+  "version": "1.0.0",
+  "description": "Simple tool to flat catalog images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihaltsou/flat-catalog-images.git"
+  },
+  "author": "ihaltsou@scnsoft.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ihaltsou/flat-catalog-images/issues"
+  },
+  "homepage": "https://github.com/ihaltsou/flat-catalog-images#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-flatten": "^0.4.0"
+  }
+}
